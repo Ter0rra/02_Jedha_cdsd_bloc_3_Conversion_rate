@@ -16,9 +16,6 @@
 - [Methodology](#-methodology)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
-- [Results](#-results)
-- [Model Performance](#-model-performance)
-- [Key Learnings](#-key-learnings)
 - [Author](#-author)
 
 ---
